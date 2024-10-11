@@ -40,7 +40,7 @@ pip install requests beautifulsoup4 tqdm
    ```
 3. Run the script:
    ```bash
-   python script_name.py
+   python imageScraper.py
    ```
 
    By default, the images are saved in the `images` folder, which will be created if it doesn't exist.
